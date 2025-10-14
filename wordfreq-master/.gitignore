@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+build
+*.egg-info/
+dist
+pip-log.txt
+.coverage
+*~
+wordfreq-data.tar.gz
+.idea
+build.dot
+.pytest_cache
+.tox
+.vscode
+prof
